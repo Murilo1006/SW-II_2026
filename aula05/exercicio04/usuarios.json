@@ -1,0 +1,6 @@
+{"produtos":
+ [
+    {"nome":"carro", "preco":100000, "quantidade": 20},
+    {"nome":"motor", "preco":20000, "quantidade": 18},
+    {"nome":"escapamento", "preco":800, "quantidade": 5}]
+}
